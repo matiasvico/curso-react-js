@@ -31,4 +31,4 @@ Link del proyecto online [Padel Shop](https://padel-shop-three.vercel.app/)
 - [Sweet Alert 2](https://sweetalert2.github.io/) alertas
 
 
-## Desarrollado por [Matías Vico](https://github.com/rukadev)
+## Desarrollado por [Matías Vico](https://github.com/matiasvico)
